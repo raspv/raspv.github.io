@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Monaspace, sans-serif;
     background-color: #f4f4f4;
     color: #333;
     margin: 0;
@@ -17,7 +17,7 @@ body {
 }
 
 h1 {
-    color: #4CAF50;
+    color: #654CAF;
 }
 
 .social-links {
@@ -28,7 +28,7 @@ h1 {
     display: inline-block;
     margin: 10px;
     padding: 10px 20px;
-    background: #4CAF50;
+    background: #654CAF;
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -36,6 +36,6 @@ h1 {
 }
 
 .social-links a:hover {
-    background: #45a049;
+    background: #2f4594;
 }
 
